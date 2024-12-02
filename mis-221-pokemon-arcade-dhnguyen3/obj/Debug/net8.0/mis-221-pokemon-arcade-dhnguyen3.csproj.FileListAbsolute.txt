@@ -1,0 +1,14 @@
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\bin\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.exe
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\bin\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.deps.json
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\bin\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.runtimeconfig.json
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\bin\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.dll
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\bin\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.pdb
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.AssemblyInfoInputs.cache
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.AssemblyInfo.cs
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.csproj.CoreCompileInputs.cache
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.dll
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\refint\mis-221-pokemon-arcade-dhnguyen3.dll
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.pdb
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\mis-221-pokemon-arcade-dhnguyen3.genruntimeconfig.cache
+C:\Users\donov\Desktop\mis221\mis-221-pokemon-arcade-dhnguyen3\obj\Debug\net8.0\ref\mis-221-pokemon-arcade-dhnguyen3.dll

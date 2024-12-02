@@ -1,0 +1,3 @@
+Ash:150
+Misty:80
+Brock:60
